@@ -36,6 +36,7 @@ Bones with constraints are selected automatically. The result popup reports how 
 
 SZ
 
+- [GitHub](https://github.com/sezhiyanhua)
 - [Bilibili](https://space.bilibili.com/12379590)
 
 ## License
